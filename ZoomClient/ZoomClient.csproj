@@ -29,7 +29,6 @@
   <ItemGroup>
     <Folder Include="Models\Dashboards\" />
     <Folder Include="Models\Billing\" />
-    <Folder Include="Models\Recordings\" />
     <Folder Include="Models\Webinars\" />
   </ItemGroup>
 
